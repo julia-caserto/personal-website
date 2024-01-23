@@ -1,3 +1,4 @@
+draft: true
 ---
 title: "Ingestible Hydrogel Microparticles Improve Bee Health After Neonicotinoid Insecticide Exposure"
 authors:
@@ -25,9 +26,11 @@ abstract: "Submitted for publication."
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- String theory
-- Mirror symmetry
-- hep-th
+- hydrogel
+- microparticle
+- bee
+- neonicotinoid
+- insecticide
 featured: true
 
 links:

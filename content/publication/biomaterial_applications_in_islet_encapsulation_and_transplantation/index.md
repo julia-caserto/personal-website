@@ -27,10 +27,12 @@ abstract: "The worldwide prevalence of type 1 diabetes motivates the development
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Biopolymers
-- Cells,Encapsulation
-- Hydrogels
-- Regenerative medicine
+- islet transplantation
+- cell encapsulation
+- type 1 diabetes
+- hydrogel coating
+- mass transfer limitations
+- foreign body response
 featured: true
 
 links:
