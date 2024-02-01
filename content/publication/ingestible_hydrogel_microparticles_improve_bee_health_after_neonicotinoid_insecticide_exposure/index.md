@@ -1,10 +1,16 @@
-draft: true
 ---
 title: "Ingestible Hydrogel Microparticles Improve Bee Health After Neonicotinoid Insecticide Exposure"
 authors:
 - admin
-- et al
-date: "2024-05-31"
+- Lyndsey Wright
+- Corey Reese
+- Matthew Huang
+- Mary K. Salcedo
+- Stephanie Fuchs
+- Sunghwan Jung
+- Scott H. McArt
+- Minglin Ma
+date: "2023-05-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
