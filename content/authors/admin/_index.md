@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julia Caserto
+title: Julia S. Caserto
 
 # Full name (for SEO)
 first_name: Julia
