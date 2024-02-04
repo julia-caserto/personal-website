@@ -16,7 +16,7 @@ design:
   columns: 1
 ---
 
-Julia have been a Teaching Assistant (TA) for the following courses:
+Julia has been a Teaching Assistant (TA) for the following courses:
 
 - Design and Analysis of Biomaterials - Spring 2021, 2022, 2024
   - Designed questions for problem sets, exams, and quizzes and implemented active learning approaches to achieve student learning objectives.
