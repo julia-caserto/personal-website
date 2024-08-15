@@ -10,7 +10,7 @@ last_name: Caserto
 superuser: true
 
 # Role/position/tagline
-role: "Chemical Engineer"
+role: "Chemical Engineer <br/> Biomaterials Scientist"
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Julia is a Chemical Engineer finishing her PhD at Cornell University.
+bio: Julia is a Chemical Engineer that recently completed her PhD from Cornell University.
 
 # Interests to show in About widget
 interests:
@@ -81,4 +81,4 @@ email: ''
 highlight_name: true
 ---
 
-Julia Caserto is a PhD candidate at Cornell University working in the research group of Dr. Minglin Ma. Throughout the course of her PhD, she has been involved in a variety of different biomaterials-related projects that aimed to treat human diseases such as cancer and diabetes. However, her dissertation work has focused on saving beneficial pollinators, such as bees, from the harmful effects of pesticides. Julia is looking forward to gaining new knowledge and experiences after graduation in May 2024. She is interested in finding a career path involving biomaterials, biotechnology, and/or consulting. When she is not saving the bees, Julia can be found swing dancing, crocheting, or watching the latest movie releases. 
+Julia's research experience involves a variety of different biomaterials-related projects that aimed to treat human diseases such as cancer and diabetes. However, her the focus of her doctoral dissertation was saving beneficial pollinators, such as bees, from the harmful effects of pesticides. Julia is looking forward to gaining new knowledge and experiences as she starts her career post-graduation. When she is not saving the bees, Julia can be found swing dancing, crocheting, or watching the latest movie releases. 

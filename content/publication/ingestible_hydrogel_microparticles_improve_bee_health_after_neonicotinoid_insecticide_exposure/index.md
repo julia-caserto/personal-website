@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: "Submitted for publication."
+abstract: "Accepted for publication."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

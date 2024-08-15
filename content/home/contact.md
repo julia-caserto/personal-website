@@ -27,13 +27,13 @@ content:
   # Contact details (edit or remove options as required)
   email: contact@juliacaserto.com
   phone: 
-  address:
-    street: Riley Robb Hall
-    city: Ithaca
-    region: NY
-    postcode: '08540'
-    country: United States
-    country_code: US
+  # address:
+  #   street: 
+  #   city: 
+  #   region: NY
+  #   postcode: '08540'
+  #   country: United States
+  #   country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
